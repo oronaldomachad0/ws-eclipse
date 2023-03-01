@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Entities.Employee"/>
+    <fullyQualifiedTypeName name="Entities.OutsourcedEmployee"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Individual"/>
+    <fullyQualifiedTypeName name="entities.Company"/>
+</qualifiedTypeNameHistroy>
